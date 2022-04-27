@@ -7,5 +7,5 @@ A Web App using the Bored API.
 ### By: [Lucas Schimidt](https://linkedin.com/in/lucasschimidtc), 2022 
 
 ## Examples:
-![alt text](https://github.com/lschimidtc/Bored-API-app/tree/hml/srcimg.png)
-![alt text](https://github.com/lschimidtc/Bored-API-app/tree/hml/srcimg2.png)
+![alt text](https://github.com/lschimidtc/Bored-API-app/tree/hml/src/img.png)
+![alt text](https://github.com/lschimidtc/Bored-API-app/tree/hml/src/img2.png)
